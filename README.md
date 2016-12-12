@@ -16,11 +16,11 @@ This plugin is a portage from [vim-gotham][vim-gotham-url] for micro editor.
 
 From your micro editor, press `CtrlE` and type this command:
 
-`> plugin install gotham-colors`
+>`> plugin install gotham-colors`
 
 When the plugin manager has installed the plugin, update your colorscheme with:
 
-`> set colorscheme gotham`
+>`> set colorscheme gotham`
 
 [gotham-url]: https://github.com/november-eleven/micro-gotham-colors
 [gotham-img]: https://raw.githubusercontent.com/november-eleven/micro-gotham-colors/master/gotham.png
