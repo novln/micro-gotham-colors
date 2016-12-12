@@ -14,7 +14,7 @@ This plugin is a portage from [vim-gotham][vim-gotham-url] for micro editor.
 
 ## Installation
 
-From your micro editor, press CtrlE and type this command:
+From your micro editor, press `CtrlE` and type this command:
 
 `> plugin install gotham-colors`
 
