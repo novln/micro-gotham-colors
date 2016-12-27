@@ -4,4 +4,4 @@
 
 VERSION = "1.0.0"
 
-AddRuntimeFile("gotham", "colorscheme", "gotham.micro")
+AddRuntimeFile("gotham-colors", "colorscheme", "gotham.micro")
