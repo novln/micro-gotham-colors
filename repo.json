@@ -15,7 +15,7 @@
         "Versions": [
             {
                 "Version": "1.0.0",
-                "Url": "https://github.com/november-eleven/micro-gotham-colors/archive/1.0.0.zip",
+                "Url": "https://github.com/novln/micro-gotham-colors/archive/1.0.0.zip",
                 "Require": {
                     "micro": ">=1.1.3"
                 }
