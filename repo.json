@@ -2,6 +2,7 @@
     {
         "Name": "gotham-colors",
         "Description": "A very dark colorscheme",
+        "Website": "https://github.com/novln/micro-gotham-colors",
         "Tags": [
             "gotham",
             "colors",
